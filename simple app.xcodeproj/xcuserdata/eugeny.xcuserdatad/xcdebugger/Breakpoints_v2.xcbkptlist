@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4AB770F-86D7-421E-A911-DC7F59073D3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A234912E-E634-48C2-98EF-B6B621514F0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple app/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "handleCollision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A234912E-E634-48C2-98EF-B6B621514F0F - 4ac9a967656ac716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_app.ContentView.handleCollision() -&gt; ()"
+                  moduleName = "simple app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eugeny/Desktop/simple%20app/simple%20app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "A234912E-E634-48C2-98EF-B6B621514F0F - 4ac9a967656aff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_app.ContentView.handleCollision() -&gt; ()"
+                  moduleName = "simple app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eugeny/Desktop/simple%20app/simple%20app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1126">
+               </Location>
+               <Location
+                  uuid = "A234912E-E634-48C2-98EF-B6B621514F0F - 4ac9a967656aff10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_app.ContentView.handleCollision() -&gt; ()"
+                  moduleName = "simple app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eugeny/Desktop/simple%20app/simple%20app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "1126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
